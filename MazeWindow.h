@@ -2,7 +2,7 @@
 #define MAZEWINDOW_H_
 
 #include <memory>
-#include "window.h"
+#include "Window.h"
 #include "Map.h"
 #include "Player.h"
 #include "Texture.h"
